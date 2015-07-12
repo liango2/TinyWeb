@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaExample/JavaExample.iml" filepath="$PROJECT_DIR$/JavaExample/JavaExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Network/Network.iml" filepath="$PROJECT_DIR$/Network/Network.iml" />
       <module fileurl="file://$PROJECT_DIR$/TinyWeb.iml" filepath="$PROJECT_DIR$/TinyWeb.iml" />
     </modules>
   </component>

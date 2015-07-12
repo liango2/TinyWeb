@@ -25,6 +25,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/JavaExample/pom.xml" />
+        <option value="$PROJECT_DIR$/Network/pom.xml" />
       </list>
     </option>
   </component>

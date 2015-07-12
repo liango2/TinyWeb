@@ -23,14 +23,14 @@ public class WenHouController extends TemplateController {
 
     @Override
     protected Map<String, List<String>> request2Map(HttpRequest httpRequest) {
-        Map<String, List<String>> map = new HashMap<>();
+        Map<String, List<String>> map = new HashMap<String, List<String>>();
         map.put(Constant.WENHOU_MAP_KEY, geterateGreetings(httpRequest.getBody()));
         return map;
     }
 
     private List<String> geterateGreetings(String body) {
         String[] split = body.split(",");
-        List<String> greetings = new ArrayList<>();
+        List<String> greetings = new ArrayList<String>();
         for (String name : split) {
             greetings.add(makeGreeting(name));
         }

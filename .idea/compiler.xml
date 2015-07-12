@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="JavaExample" />
+        <module name="Network" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="JavaExample" target="1.8" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="JavaExample" target="1.5" />
+      <module name="Network" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
