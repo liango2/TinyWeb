@@ -1,5 +1,8 @@
 package org.liango.oo.tinyweb;
 
+import org.liango.oo.tinyweb.c.Controller;
+import org.liango.oo.tinyweb.f.Filter;
+
 import java.util.List;
 import java.util.Map;
 
@@ -18,21 +21,21 @@ public class TinyWeb {
         this.filters = filters;
     }
 
-    public HttpResponse handleRequerst(HttpRequest httpRequest) {
+    public HttpResponse request2Response(HttpRequest httpRequest) {
 
-        // ¹ýÂËÆ÷
+        // è¿‡æ»¤å™¨
         for (Filter filter : filters) {
             httpRequest = filter.doFilter(httpRequest);
         }
 
-        // ¿ØÖÆÆ÷
+        // æŽ§åˆ¶å™¨
         String path = httpRequest.getPath();
         Controller controller = controllers.get(path);
 
         if (controller == null) {
             return null;
         } else {
-            return controller.handleRequest(httpRequest);
+            return controller.request2Response(httpRequest);
         }
     }
 }
