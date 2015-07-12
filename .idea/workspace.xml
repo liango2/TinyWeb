@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cad7c023-3eb8-47ce-988c-a7be2ce7b615" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaExample/target/classes/org/liango/oo/tinyweb/HttpRequest.class" afterPath="$PROJECT_DIR$/JavaExample/target/classes/org/liango/oo/tinyweb/HttpRequest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaExample/target/classes/org/liango/oo/tinyweb/HttpResponse.class" afterPath="$PROJECT_DIR$/JavaExample/target/classes/org/liango/oo/tinyweb/HttpResponse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaExample/target/classes/org/liango/oo/tinyweb/c/TemplateController.class" afterPath="$PROJECT_DIR$/JavaExample/target/classes/org/liango/oo/tinyweb/c/TemplateController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaExample/target/test-classes/org/liango/oo/tinyweb/TinyWebTest.class" afterPath="$PROJECT_DIR$/JavaExample/target/test-classes/org/liango/oo/tinyweb/TinyWebTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaExample/target/test-classes/org/liango/oo/tinyweb/example/WenHouControllerTest.class" afterPath="$PROJECT_DIR$/JavaExample/target/test-classes/org/liango/oo/tinyweb/example/WenHouControllerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaExample/target/test-classes/org/liango/oo/tinyweb/example/wenhou/v/celue/WenHouMap2StringCeLueTest.class" afterPath="$PROJECT_DIR$/JavaExample/target/test-classes/org/liango/oo/tinyweb/example/wenhou/v/celue/WenHouMap2StringCeLueTest.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\classes\org\liango\oo\tinyweb\HttpRequest.class" afterPath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\classes\org\liango\oo\tinyweb\HttpRequest.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\classes\org\liango\oo\tinyweb\HttpResponse.class" afterPath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\classes\org\liango\oo\tinyweb\HttpResponse.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\classes\org\liango\oo\tinyweb\c\TemplateController.class" afterPath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\classes\org\liango\oo\tinyweb\c\TemplateController.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\test-classes\org\liango\oo\tinyweb\TinyWebTest.class" afterPath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\test-classes\org\liango\oo\tinyweb\TinyWebTest.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\test-classes\org\liango\oo\tinyweb\example\WenHouControllerTest.class" afterPath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\test-classes\org\liango\oo\tinyweb\example\WenHouControllerTest.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\test-classes\org\liango\oo\tinyweb\example\wenhou\v\celue\WenHouMap2StringCeLueTest.class" afterPath="C:\Users\liango\IdeaProjects\TinyWeb\JavaExample\target\test-classes\org\liango\oo\tinyweb\example\wenhou\v\celue\WenHouMap2StringCeLueTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaExample/src/main/java/org/liango/oo/tinyweb/HttpRequest.java" afterPath="$PROJECT_DIR$/JavaExample/src/main/java/org/liango/oo/tinyweb/HttpRequest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaExample/src/main/java/org/liango/oo/tinyweb/HttpResponse.java" afterPath="$PROJECT_DIR$/JavaExample/src/main/java/org/liango/oo/tinyweb/HttpResponse.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaExample/src/main/java/org/liango/oo/tinyweb/c/TemplateController.java" afterPath="$PROJECT_DIR$/JavaExample/src/main/java/org/liango/oo/tinyweb/c/TemplateController.java" />
@@ -890,7 +890,7 @@
       <updated>1436589470082</updated>
       <workItem from="1436589475322" duration="41847000" />
       <workItem from="1436692159073" duration="1930000" />
-      <workItem from="1436696488176" duration="4226000" />
+      <workItem from="1436696488176" duration="4443000" />
     </task>
     <task id="LOCAL-00001" summary="编写了一个TinyWeb类">
       <created>1436599318758</created>
@@ -908,7 +908,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48003000" />
+    <option name="totallyTimeSpent" value="48220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
