@@ -22,7 +22,7 @@ class TinyWebTest extends GroovyTestCase {
 
         def web = new TinyWeb([(org.liango.oo.tinyweb.example.wenhou.Constant.WENHOU_HTTPREQ_PATH): controller], [new LogingFilter()])
 
-        def httpRequest = new HttpRequest()
+        def httpRequest = new HttpRequest.HttpRequestBuilder().createHttpRequest()
         println "httpRequest = $httpRequest"
 
         def response = web.request2Response(httpRequest)

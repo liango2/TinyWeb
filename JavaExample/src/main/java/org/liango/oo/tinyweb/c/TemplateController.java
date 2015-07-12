@@ -25,7 +25,7 @@ public abstract class TemplateController implements Controller {
         Map<String, List<String>> map = request2Map(httpRequest);
         Integer responseCode = 200;
         String responseBody = view.map2String(map);
-        return new HttpResponse(responseCode, responseBody);
+        return new HttpResponse.HttpResponseBuilder().setResponseCode(responseCode).setResponseBody(responseBody).createHttpResponse();
     }
 
       protected abstract Map<String, List<String>> request2Map(HttpRequest httpRequest);
