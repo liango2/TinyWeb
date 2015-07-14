@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaExample/JavaExample.iml" filepath="$PROJECT_DIR$/JavaExample/JavaExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Network/Network.iml" filepath="$PROJECT_DIR$/Network/Network.iml" />
       <module fileurl="file://$PROJECT_DIR$/TinyWeb.iml" filepath="$PROJECT_DIR$/TinyWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clojureexample/clojureexample.iml" filepath="$PROJECT_DIR$/clojureexample/clojureexample.iml" />
     </modules>
   </component>
 </project>
